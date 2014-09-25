@@ -3,20 +3,26 @@
 STEP 1
 ======
 
+```
 describe({
 	// create the closing brackets to create the description
 });  
 
+```
+
 STEP 2
 ======
 
+```
 describe('', function (){
 	// add the quotation marks, comma, function and parenthesis
-});  
+});
+```
 
 STEP 3
 ======
 
+```
 describe('', function (){
 
 	it({
@@ -24,21 +30,25 @@ describe('', function (){
 	});
 
 });  
+```
 
 STEP 4
 ======
 
+```
 describe('', function (){
 
 	it('', function(){
 	 	// add the quitation marks, comma, function and parenthesis for the test
 	});
 
-}); 
+});
+```
 
 STEP 5
 ====== 
 
+```
 describe('', function (){
 
 	it('', function(){
@@ -46,3 +56,4 @@ describe('', function (){
 	});
 
 }); 
+```
