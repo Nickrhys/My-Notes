@@ -25,7 +25,6 @@ describe('', function (){
 
 });  
 
-
 STEP 4
 ======
 
@@ -36,7 +35,6 @@ describe('', function (){
 	});
 
 });
-
 
 STEP 5
 ====== 
