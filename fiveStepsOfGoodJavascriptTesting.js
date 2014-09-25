@@ -1,4 +1,4 @@
-5 Steps of good protocol Javascript testing
+5 Steps of good protocol Javascript testing with Jasmine
 
 STEP 1
 ======
