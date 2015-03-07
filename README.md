@@ -33,7 +33,7 @@ Test Existing Task in App and on Webpage
   1. You will be faced with the log in page again. This time put in your username and the invitation code. 
   2. You will now have reached the home page. You should see the take you have created. click on this task.
   3. This will take you into your task. Is the description there as you wrote it? Is the deadline correct? Can you see a button to send messages? Are the write, photo, video and audio buttons there?
- Test each of the input buttons. starting with write, you should see a text editing page. Type some text in and press add. It should take you to the task page. You should see your text  below and the input icons will now be shown horizontally on a bar at the bottom of the screen. 
+  4. Test each of the input buttons. starting with write, you should see a text editing page. Type some text in and press add. It should take you to the task page. You should see your text below and the input icons will now be shown horizontally on a bar at the bottom of the screen. 
 3. ON WEBPAGE - Go to your assignment. Check that is has started. You should see the text within this. 
 4. IN APP - Repeat the task for the photo, video and audio. You can do all of these simultaneously to save time. 
 5. IN MOBILE DEVICE - Check it is uploading, pausing and resuming in the assignment by doing the following. In photo, once you have uploaded your image, go to settings and check 'flight safe’ mode. 
