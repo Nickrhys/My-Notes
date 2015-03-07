@@ -34,13 +34,13 @@ Test Existing Task in App and on Webpage
   2. You will now have reached the home page. You should see the take you have created. click on this task.
   3. This will take you into your task. Is the description there as you wrote it? Is the deadline correct? Can you see a button to send messages? Are the write, photo, video and audio buttons there?
  Test each of the input buttons. starting with write, you should see a text editing page. Type some text in and press add. It should take you to the task page. You should see your text  below and the input icons will now be shown horizontally on a bar at the bottom of the screen. 
- ON WEBPAGE - Go to your assignment. Check that is has started. You should see the text within this. 
-3. IN APP - Repeat the task for the photo, video and audio. You can do all of these simultaneously to save time. 
-4. IN MOBILE DEVICE - Check it is uploading, pausing and resuming in the assignment by doing the following. In photo, once you have uploaded your image, go to settings and check 'flight safe’ mode. 
-5. IN APP - Check that the app has paused the upload
-6. ON WEBPAGE - Check this is registering the upload, and it has paused
-7. IN MOBILE DEVICE - Turn off flight safe mode, go to the app and resume the upload. Has the upload continued? 
-8. ON WEBPAGE - Hit refresh and check that is has uploaded all inputs to the task. 
+3. ON WEBPAGE - Go to your assignment. Check that is has started. You should see the text within this. 
+4. IN APP - Repeat the task for the photo, video and audio. You can do all of these simultaneously to save time. 
+5. IN MOBILE DEVICE - Check it is uploading, pausing and resuming in the assignment by doing the following. In photo, once you have uploaded your image, go to settings and check 'flight safe’ mode. 
+6. IN APP - Check that the app has paused the upload
+7. ON WEBPAGE - Check this is registering the upload, and it has paused
+8. IN MOBILE DEVICE - Turn off flight safe mode, go to the app and resume the upload. Has the upload continued? 
+9. ON WEBPAGE - Hit refresh and check that is has uploaded all inputs to the task. 
 
 Finishing a Task
 ----------------
